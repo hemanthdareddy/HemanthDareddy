@@ -62,6 +62,7 @@ I'm constantly expanding my knowledge in:
 
 ### 🤝 Let's Connect!
 
-<a href="https://www.linkedin.com/in/hemanth-dareddy?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=social&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/hemanth-dareddy?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
 <a href="mailto:hemanthdareddy@gmail.com"><img src="https://img.shields.io/badge/Say%20Hi!-D14836?style=social&logo=gmail" alt="Email"></a>
 
