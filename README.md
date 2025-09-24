@@ -65,9 +65,3 @@ I'm constantly expanding my knowledge in:
 <a href="https://www.linkedin.com/in/hemanth-dareddy?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=social&logo=linkedin" alt="LinkedIn"></a>
 <a href="mailto:hemanthdareddy@gmail.com"><img src="https://img.shields.io/badge/Say%20Hi!-D14836?style=social&logo=gmail" alt="Email"></a>
 
-<div align="center">
-  <h3>GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Hemanth's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=dark" alt="Hemanth's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark" alt="Top Languages" />
-</div>
