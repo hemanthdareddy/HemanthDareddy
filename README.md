@@ -19,10 +19,14 @@ My current focus involves leveraging Python and Django to create scalable web so
 ### 💻 Tech Stack & Tools
 
 **Languages:** Python, JavaScript, C++, C, HTML, CSS
+
 **Frameworks:** Django, REST APIs
+
 **Databases:** PostgreSQL, SQLite
+
 **Front-end:** HTML5, CSS3, JavaScript, Tailwind CSS
-**Tools & Platforms:** Git, GitHub, VS Code, Linux, PWA
+
+**Tools & Platforms:** Git, GitHub, VS Code, PWA
 
 ---
 
