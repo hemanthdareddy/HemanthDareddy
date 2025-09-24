@@ -38,7 +38,7 @@ Here are some of my key projects showcasing my skills:
 #### 2. Student Task Manager
 - **Description:** An intuitive PWA for engineering students to organize academic commitments. Includes full CRUD functionality for tasks and subjects, dynamic countdown timers, and secure user authentication.
 - **Tech Stack:** Python, Django, SQLite, HTML5, CSS3, JavaScript.
-- **[View Repository](https://github.com/YourGitHubUsername/Student-Task-Manager-Repo)** 
+- **[View Repository](https://github.com/hemanthdareddy/Student-Task-Manager)** 
 
 #### 3. Guidance Hub (Ongoing)
 - **Description:** A structured, interactive platform for engineering students to follow learning roadmaps for various job roles. Features dynamic roadmaps, user authentication, and interactive progress tracking.
