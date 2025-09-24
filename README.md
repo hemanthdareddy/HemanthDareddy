@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/D5616AQFG92rVb5Q8rQ/profile-displaybackgroundimage-shrink_350_1400/0/1715690327771?e=1721260800&v=beta&t=H-W60X1Gj40D5g-m_7f-t74O2Vl5T_b486Q_v0y4H84" alt="Hemanth Dareddy LinkedIn Banner" width="800"/> 
+  <img src="https://www.linkedin.com/in/hemanth-dareddy/overlay/background-image/" alt="Hemanth Dareddy LinkedIn Banner" width="800"/> 
   </div>
 
 <h1 align="center">Hi there 👋, I'm Hemanth Dareddy!</h1>
